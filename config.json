@@ -3,6 +3,10 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "horiseon",
+    "portfolio-concept-page",
+    "bootstrap-portfolio",
+    "rock-paper-scissors-activity",
+    "console-finances"
   ]
 }
