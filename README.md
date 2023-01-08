@@ -83,9 +83,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/585602897/small/year.png" height="20"> 10
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/585246516/year.md">
+				console-finances
+			</a>
+		</td>
+		<td>
+			2023/1/5 6:54 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/585246516/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/8 6:20 PM UTC</i></small>
+<small><i>Last updated on 2023/1/8 6:54 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

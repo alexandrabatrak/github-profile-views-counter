@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter)
 
-### :octocat: [portfolio-concept-page](https://github.com/alexandrabatrak/portfolio-concept-page)
-![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/579040991/large/year.png)
+### :octocat: [console-finances](https://github.com/alexandrabatrak/console-finances)
+![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585246516/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/8 6:53 PM UTC</i></small>
+<small><i>Last updated on 2023/1/8 6:54 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/579040991/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/579040991/week.md)
+[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/585246516/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585246516/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/579040991/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/579040991/week.md)
+[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/585246516/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585246516/week.md)
 ```
 ### Header
-# portfolio-concept-page [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/579040991/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/579040991/year.md)
+# console-finances [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585246516/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585246516/year.md)
 ```readme
-# portfolio-concept-page [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/579040991/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/579040991/year.md)
+# console-finances [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585246516/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585246516/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
