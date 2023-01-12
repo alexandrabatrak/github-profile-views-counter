@@ -99,9 +99,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/585246516/small/year.png" height="20"> 55
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/587856184/year.md">
+				blackjack-simplified
+			</a>
+		</td>
+		<td>
+			2023/1/9 9:34 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/587856184/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/588312814/year.md">
+				password-generator
+			</a>
+		</td>
+		<td>
+			2023/1/9 9:34 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/588312814/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/12 6:24 PM UTC</i></small>
+<small><i>Last updated on 2023/1/12 9:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
