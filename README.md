@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/18 4:12 AM UTC
+			2023/1/19 4:12 AM UTC
 		</td>
 		<td>
 			1
@@ -149,7 +149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/21 4:12 AM UTC</i></small>
+<small><i>Last updated on 2023/1/21 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
