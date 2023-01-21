@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter)
 
-### :octocat: [rock-paper-scissors-activity](https://github.com/alexandrabatrak/rock-paper-scissors-activity)
+### :octocat: [rock-paper-scissors](https://github.com/alexandrabatrak/rock-paper-scissors)
 ![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/21 1:26 AM UTC</i></small>
+<small><i>Last updated on 2023/1/21 4:11 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/585602897/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/week.md)
 ```
 ### Header
-# rock-paper-scissors-activity [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/year.md)
+# rock-paper-scissors [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/year.md)
 ```readme
-# rock-paper-scissors-activity [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/year.md)
+# rock-paper-scissors [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

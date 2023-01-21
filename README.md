@@ -70,7 +70,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/585602897/year.md">
-				rock-paper-scissors-activity
+				rock-paper-scissors
 			</a>
 		</td>
 		<td>
@@ -131,9 +131,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/588312814/small/year.png" height="20"> 110
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/590585276/year.md">
+				coding-quiz
+			</a>
+		</td>
+		<td>
+			2023/1/18 4:12 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/590585276/small/year.png" height="20"> 13
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/21 1:27 AM UTC</i></small>
+<small><i>Last updated on 2023/1/21 4:12 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
