@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter)
 
-### :octocat: [rock-paper-scissors](https://github.com/alexandrabatrak/rock-paper-scissors)
-![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/large/year.png)
+### :octocat: [daily-planner](https://github.com/alexandrabatrak/daily-planner)
+![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/593365146/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>66</code>
 		</td>
 	</tr>
 	<tr>
@@ -153,18 +153,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/2/1 12:01 AM UTC</i></small>
+<small><i>Last updated on 2023/2/1 12:02 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/585602897/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/week.md)
+[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/593365146/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/593365146/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/585602897/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/week.md)
+[![Image of github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/593365146/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/593365146/week.md)
 ```
 ### Header
-# rock-paper-scissors [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/year.md)
+# daily-planner [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/593365146/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/593365146/year.md)
 ```readme
-# rock-paper-scissors [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/585602897/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/585602897/year.md)
+# daily-planner [<img alt="Image of github-profile-views-counter" src="https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/graph/593365146/small/year.png" height="20">](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/readme/593365146/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/29 1:38 AM UTC
+			2023/1/30 1:23 AM UTC
 		</td>
 		<td>
 			5
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/29 1:38 AM UTC
+			2023/1/30 1:23 AM UTC
 		</td>
 		<td>
 			20
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/29 1:39 AM UTC
+			2023/1/30 12:00 AM UTC
 		</td>
 		<td>
-			44
+			45
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/580090437/small/year.png" height="20"> 137
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/580090437/small/year.png" height="20"> 139
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/29 1:39 AM UTC
+			2023/1/30 1:23 AM UTC
 		</td>
 		<td>
 			12
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/29 1:39 AM UTC
+			2023/1/30 12:00 AM UTC
 		</td>
 		<td>
-			37
+			38
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/585246516/small/year.png" height="20"> 104
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/585246516/small/year.png" height="20"> 106
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/29 1:39 AM UTC
+			2023/1/30 1:24 AM UTC
 		</td>
 		<td>
 			19
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/1/29 1:39 AM UTC
+			2023/1/30 12:00 AM UTC
 		</td>
 		<td>
-			42
+			43
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/588312814/small/year.png" height="20"> 130
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/588312814/small/year.png" height="20"> 134
 		</td>
 	</tr>
 	<tr>
@@ -138,18 +138,34 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
+			2023/1/30 12:00 AM UTC
+		</td>
+		<td>
+			32
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/590585276/small/year.png" height="20"> 246
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/593365146/year.md">
+				daily-planner
+			</a>
+		</td>
+		<td>
 			2023/1/29 12:00 AM UTC
 		</td>
 		<td>
-			31
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/590585276/small/year.png" height="20"> 245
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/593365146/small/year.png" height="20"> 66
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/31 6:23 PM UTC</i></small>
+<small><i>Last updated on 2023/2/1 12:02 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
