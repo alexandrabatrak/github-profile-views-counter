@@ -163,9 +163,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/593365146/small/year.png" height="20"> 226
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/596222269/year.md">
+				weather-dashboard
+			</a>
+		</td>
+		<td>
+			2023/2/4 6:23 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/596222269/small/year.png" height="20"> 87
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/2/7 1:35 AM UTC</i></small>
+<small><i>Last updated on 2023/2/7 6:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
