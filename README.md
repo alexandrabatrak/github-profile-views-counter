@@ -243,25 +243,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/607919212/small/year.png" height="20"> 298
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/608660507/year.md">
-				react-portfolio
-			</a>
-		</td>
-		<td>
-			2023/12/25 1:14 AM UTC
-		</td>
-		<td>
-			57
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/608660507/small/year.png" height="20"> 659
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/27 6:23 AM UTC</i></small>
+<small><i>Last updated on 2023/12/27 12:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
