@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/590209017/year.md">
-				alexandrabatrak
-			</a>
-		</td>
-		<td>
-			2024/3/18 12:00 AM UTC
-		</td>
-		<td>
-			44
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/alexandrabatrak/github-profile-views-counter/raw/master/graph/590209017/small/year.png" height="20"> 261
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/alexandrabatrak/github-profile-views-counter/tree/master/readme/575984445/year.md">
 				horiseon
 			</a>
@@ -261,7 +245,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/3/20 12:30 PM UTC</i></small>
+<small><i>Last updated on 2024/3/20 6:20 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
